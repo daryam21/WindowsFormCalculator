@@ -1,0 +1,9 @@
+c:\users\richard\documents\visual studio 2015\Projects\CalculatorApplicationWithTests\CalculatorApplicationWithTests\bin\Debug\CalculatorApplicationWithTests.exe.config
+c:\users\richard\documents\visual studio 2015\Projects\CalculatorApplicationWithTests\CalculatorApplicationWithTests\bin\Debug\CalculatorApplicationWithTests.exe
+c:\users\richard\documents\visual studio 2015\Projects\CalculatorApplicationWithTests\CalculatorApplicationWithTests\bin\Debug\CalculatorApplicationWithTests.pdb
+c:\users\richard\documents\visual studio 2015\Projects\CalculatorApplicationWithTests\CalculatorApplicationWithTests\obj\Debug\CalculatorApplicationWithTests.csprojResolveAssemblyReference.cache
+c:\users\richard\documents\visual studio 2015\Projects\CalculatorApplicationWithTests\CalculatorApplicationWithTests\obj\Debug\CalculatorApplicationWithTests.Form1.resources
+c:\users\richard\documents\visual studio 2015\Projects\CalculatorApplicationWithTests\CalculatorApplicationWithTests\obj\Debug\CalculatorApplicationWithTests.Properties.Resources.resources
+c:\users\richard\documents\visual studio 2015\Projects\CalculatorApplicationWithTests\CalculatorApplicationWithTests\obj\Debug\CalculatorApplicationWithTests.csproj.GenerateResource.Cache
+c:\users\richard\documents\visual studio 2015\Projects\CalculatorApplicationWithTests\CalculatorApplicationWithTests\obj\Debug\CalculatorApplicationWithTests.exe
+c:\users\richard\documents\visual studio 2015\Projects\CalculatorApplicationWithTests\CalculatorApplicationWithTests\obj\Debug\CalculatorApplicationWithTests.pdb
