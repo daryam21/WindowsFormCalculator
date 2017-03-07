@@ -25,17 +25,15 @@ namespace CalculatorApplicationWithTests
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            btn1.Click += new EventHandler(btn_Click);
-            btn2.Click += new EventHandler(btn_Click);
-            btn3.Click += new EventHandler(btn_Click);
-            btn4.Click += new EventHandler(btn_Click);
-            btn5.Click += new EventHandler(btn_Click);
-            btn6.Click += new EventHandler(btn_Click);
-            btn7.Click += new EventHandler(btn_Click);
-            btn8.Click += new EventHandler(btn_Click);
-            btn9.Click += new EventHandler(btn_Click);
-            btn0.Click += new EventHandler(btn_Click);
-            btnDot.Click += new EventHandler(btn_Click);
+            Button[] calcButtons = new Button[]
+            {
+                btn0, btn1, btn2, btn3, btn4, btn5, btn6, btn7, btn8, btn9, btnDot
+            };
+
+            foreach(var btn in calcButtons)
+            {
+                btn.Click += new EventHandler(btn_Click);
+            }
         }
 
         public void btn_Click(object sender, EventArgs e)
