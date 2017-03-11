@@ -1,0 +1,10 @@
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\CalculatorApplicationWithTests\CalculatorApplicationWithTestsTests\bin\Debug\CalculatorApplicationWithTestsTests.dll
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\CalculatorApplicationWithTests\CalculatorApplicationWithTestsTests\bin\Debug\CalculatorApplicationWithTestsTests.pdb
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\CalculatorApplicationWithTests\CalculatorApplicationWithTestsTests\bin\Debug\CalculatorApplicationWithTests.exe
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\CalculatorApplicationWithTests\CalculatorApplicationWithTestsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\CalculatorApplicationWithTests\CalculatorApplicationWithTestsTests\bin\Debug\nunit.framework.dll
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\CalculatorApplicationWithTests\CalculatorApplicationWithTestsTests\bin\Debug\CalculatorApplicationWithTests.pdb
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\CalculatorApplicationWithTests\CalculatorApplicationWithTestsTests\bin\Debug\nunit.framework.xml
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\CalculatorApplicationWithTests\CalculatorApplicationWithTestsTests\obj\Debug\CalculatorApplicationWithTestsTests.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\CalculatorApplicationWithTests\CalculatorApplicationWithTestsTests\obj\Debug\CalculatorApplicationWithTestsTests.dll
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\CalculatorApplicationWithTests\CalculatorApplicationWithTestsTests\obj\Debug\CalculatorApplicationWithTestsTests.pdb

@@ -88,7 +88,7 @@ namespace CalculatorApplicationWithTests
             }
         }
 
-        private void btnPlus_Click(object sender, EventArgs e)
+        public void btnPlus_Click(object sender, EventArgs e)
         {
             operand1.Add(calculatorValues.Text);
             operation = '+';
@@ -116,10 +116,16 @@ namespace CalculatorApplicationWithTests
             calculatorValues.Text = string.Empty;
         }
 
-        private void btnResult_Click(object sender, EventArgs e)
+        public void btnResult_Click(object sender, EventArgs e)
         {
-            operand2 = calculatorValues.Text;
-            string[] opr1 = operand1.ToArray();
+            tester(operation, operand1, operand2);
+        }
+
+        public int tester(char operations, List<string> tester1, string tester2)
+        {
+            operand2 = tester2;
+
+            string[] opr1 = tester1.ToArray();
 
             double opr2;
 
@@ -131,7 +137,7 @@ namespace CalculatorApplicationWithTests
                 doubleArray[i] = Double.Parse(opr1[i]);
             }
 
-            switch (operation)
+            switch (operations)
             {
                 case '+':
                     test = doubleArray.Aggregate((a, b) => a + b);
@@ -161,7 +167,10 @@ namespace CalculatorApplicationWithTests
                     break;
             }
 
-            calculatorValues.Text = result.ToString();
+            var caseResult = calculatorValues.Text = result;
+            int returnValue = Int32.Parse(caseResult);
+
+            return returnValue;
         }
 
 
